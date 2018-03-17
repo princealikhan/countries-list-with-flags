@@ -1,3 +1,3 @@
 # Countries List With Flags
 
-### Very Big Thanks for Made by Hampus Nilsson.
+### Very Big Thanks Hampus Nilsson For Creating Assets
