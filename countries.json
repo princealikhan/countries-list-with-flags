@@ -2,1216 +2,1216 @@
   {
     "name": "Afghanistan",
     "code": "AF",
-    "img" : "assets/images/countries/af.svg"
+    "img" : "YOUR-ASSETS-PATH/af.svg"
   },
   {
     "name": "Åland Islands",
     "code": "AX",
-    "img" : "assets/images/countries/ax.svg"
+    "img" : "YOUR-ASSETS-PATH/ax.svg"
   },
   {
     "name": "Albania",
     "code": "AL",
-    "img" : "assets/images/countries/al.svg"
+    "img" : "YOUR-ASSETS-PATH/al.svg"
   },
   {
     "name": "Algeria",
     "code": "DZ",
-    "img" : "assets/images/countries/dz.svg"
+    "img" : "YOUR-ASSETS-PATH/dz.svg"
   },
   {
     "name": "American Samoa",
     "code": "AS",
-    "img" : "assets/images/countries/as.svg"
+    "img" : "YOUR-ASSETS-PATH/as.svg"
   },
   {
     "name": "AndorrA",
     "code": "AD",
-    "img" : "assets/images/countries/ad.svg"
+    "img" : "YOUR-ASSETS-PATH/ad.svg"
   },
   {
     "name": "Angola",
     "code": "AO",
-    "img" : "assets/images/countries/ao.svg"
+    "img" : "YOUR-ASSETS-PATH/ao.svg"
   },
   {
     "name": "Anguilla",
     "code": "AI",
-    "img" : "assets/images/countries/ai.svg"
+    "img" : "YOUR-ASSETS-PATH/ai.svg"
   },
   {
     "name": "Antarctica",
     "code": "AQ",
-    "img" : "assets/images/countries/aq.svg"
+    "img" : "YOUR-ASSETS-PATH/aq.svg"
   },
   {
     "name": "Antigua and Barbuda",
     "code": "AG",
-    "img" : "assets/images/countries/ag.svg"
+    "img" : "YOUR-ASSETS-PATH/ag.svg"
   },
   {
     "name": "Argentina",
     "code": "AR",
-    "img" : "assets/images/countries/ar.svg"
+    "img" : "YOUR-ASSETS-PATH/ar.svg"
   },
   {
     "name": "Armenia",
     "code": "AM",
-    "img" : "assets/images/countries/am.svg"
+    "img" : "YOUR-ASSETS-PATH/am.svg"
   },
   {
     "name": "Aruba",
     "code": "AW",
-    "img" : "assets/images/countries/aw.svg"
+    "img" : "YOUR-ASSETS-PATH/aw.svg"
   },
   {
     "name": "Australia",
     "code": "AU",
-    "img" : "assets/images/countries/au.svg"
+    "img" : "YOUR-ASSETS-PATH/au.svg"
   },
   {
     "name": "Austria",
     "code": "AT",
-    "img" : "assets/images/countries/at.svg"
+    "img" : "YOUR-ASSETS-PATH/at.svg"
   },
   {
     "name": "Azerbaijan",
     "code": "AZ",
-    "img" : "assets/images/countries/az.svg"
+    "img" : "YOUR-ASSETS-PATH/az.svg"
   },
   {
     "name": "Bahamas",
     "code": "BS",
-    "img" : "assets/images/countries/bs.svg"
+    "img" : "YOUR-ASSETS-PATH/bs.svg"
   },
   {
     "name": "Bahrain",
     "code": "BH",
-    "img" : "assets/images/countries/bh.svg"
+    "img" : "YOUR-ASSETS-PATH/bh.svg"
   },
   {
     "name": "Bangladesh",
     "code": "BD",
-    "img" : "assets/images/countries/bd.svg"
+    "img" : "YOUR-ASSETS-PATH/bd.svg"
   },
   {
     "name": "Barbados",
     "code": "BB",
-    "img" : "assets/images/countries/bb.svg"
+    "img" : "YOUR-ASSETS-PATH/bb.svg"
   },
   {
     "name": "Belarus",
     "code": "BY",
-    "img" : "assets/images/countries/by.svg"
+    "img" : "YOUR-ASSETS-PATH/by.svg"
   },
   {
     "name": "Belgium",
     "code": "BE",
-    "img" : "assets/images/countries/be.svg"
+    "img" : "YOUR-ASSETS-PATH/be.svg"
   },
   {
     "name": "Belize",
     "code": "BZ",
-    "img" : "assets/images/countries/bz.svg"
+    "img" : "YOUR-ASSETS-PATH/bz.svg"
   },
   {
     "name": "Benin",
     "code": "BJ",
-    "img" : "assets/images/countries/bj.svg"
+    "img" : "YOUR-ASSETS-PATH/bj.svg"
   },
   {
     "name": "Bermuda",
     "code": "BM",
-    "img" : "assets/images/countries/bm.svg"
+    "img" : "YOUR-ASSETS-PATH/bm.svg"
   },
   {
     "name": "Bhutan",
     "code": "BT",
-    "img" : "assets/images/countries/bt.svg"
+    "img" : "YOUR-ASSETS-PATH/bt.svg"
   },
   {
     "name": "Bolivia",
     "code": "BO",
-    "img" : "assets/images/countries/bo.svg"
+    "img" : "YOUR-ASSETS-PATH/bo.svg"
   },
   {
     "name": "Bosnia and Herzegovina",
     "code": "BA",
-    "img" : "assets/images/countries/ba.svg"
+    "img" : "YOUR-ASSETS-PATH/ba.svg"
   },
   {
     "name": "Botswana",
     "code": "BW",
-    "img" : "assets/images/countries/bw.svg"
+    "img" : "YOUR-ASSETS-PATH/bw.svg"
   },
   {
     "name": "Bouvet Island",
     "code": "BV",
-    "img" : "assets/images/countries/bv.svg"
+    "img" : "YOUR-ASSETS-PATH/bv.svg"
   },
   {
     "name": "Brazil",
     "code": "BR",
-    "img" : "assets/images/countries/br.svg"
+    "img" : "YOUR-ASSETS-PATH/br.svg"
   },
   {
     "name": "British Indian Ocean Territory",
     "code": "IO",
-    "img" : "assets/images/countries/io.svg"
+    "img" : "YOUR-ASSETS-PATH/io.svg"
   },
   {
     "name": "Brunei Darussalam",
     "code": "BN",
-    "img" : "assets/images/countries/bn.svg"
+    "img" : "YOUR-ASSETS-PATH/bn.svg"
   },
   {
     "name": "Bulgaria",
     "code": "BG",
-    "img" : "assets/images/countries/bg.svg"
+    "img" : "YOUR-ASSETS-PATH/bg.svg"
   },
   {
     "name": "Burkina Faso",
     "code": "BF",
-    "img" : "assets/images/countries/bf.svg"
+    "img" : "YOUR-ASSETS-PATH/bf.svg"
   },
   {
     "name": "Burundi",
     "code": "BI",
-    "img" : "assets/images/countries/bi.svg"
+    "img" : "YOUR-ASSETS-PATH/bi.svg"
   },
   {
     "name": "Cambodia",
     "code": "KH",
-    "img" : "assets/images/countries/kh.svg"
+    "img" : "YOUR-ASSETS-PATH/kh.svg"
   },
   {
     "name": "Cameroon",
     "code": "CM",
-    "img" : "assets/images/countries/cm.svg"
+    "img" : "YOUR-ASSETS-PATH/cm.svg"
   },
   {
     "name": "Canada",
     "code": "CA",
-    "img" : "assets/images/countries/ca.svg"
+    "img" : "YOUR-ASSETS-PATH/ca.svg"
   },
   {
     "name": "Cape Verde",
     "code": "CV",
-    "img" : "assets/images/countries/cv.svg"
+    "img" : "YOUR-ASSETS-PATH/cv.svg"
   },
   {
     "name": "Cayman Islands",
     "code": "KY",
-    "img" : "assets/images/countries/ky.svg"
+    "img" : "YOUR-ASSETS-PATH/ky.svg"
   },
   {
     "name": "Central African Republic",
     "code": "CF",
-    "img" : "assets/images/countries/cf.svg"
+    "img" : "YOUR-ASSETS-PATH/cf.svg"
   },
   {
     "name": "Chad",
     "code": "TD",
-    "img" : "assets/images/countries/td.svg"
+    "img" : "YOUR-ASSETS-PATH/td.svg"
   },
   {
     "name": "Chile",
     "code": "CL",
-    "img" : "assets/images/countries/cl.svg"
+    "img" : "YOUR-ASSETS-PATH/cl.svg"
   },
   {
     "name": "China",
     "code": "CN",
-    "img" : "assets/images/countries/cn.svg"
+    "img" : "YOUR-ASSETS-PATH/cn.svg"
   },
   {
     "name": "Christmas Island",
     "code": "CX",
-    "img" : "assets/images/countries/cx.svg"
+    "img" : "YOUR-ASSETS-PATH/cx.svg"
   },
   {
     "name": "Cocos (Keeling) Islands",
     "code": "CC",
-    "img" : "assets/images/countries/cc.svg"
+    "img" : "YOUR-ASSETS-PATH/cc.svg"
   },
   {
     "name": "Colombia",
     "code": "CO",
-    "img" : "assets/images/countries/co.svg"
+    "img" : "YOUR-ASSETS-PATH/co.svg"
   },
   {
     "name": "Comoros",
     "code": "KM",
-    "img" : "assets/images/countries/km.svg"
+    "img" : "YOUR-ASSETS-PATH/km.svg"
   },
   {
     "name": "Congo",
     "code": "CG",
-    "img" : "assets/images/countries/cg.svg"
+    "img" : "YOUR-ASSETS-PATH/cg.svg"
   },
   {
     "name": "Congo, The Democratic Republic of the",
     "code": "CD",
-    "img" : "assets/images/countries/cd.svg"
+    "img" : "YOUR-ASSETS-PATH/cd.svg"
   },
   {
     "name": "Cook Islands",
     "code": "CK",
-    "img" : "assets/images/countries/ck.svg"
+    "img" : "YOUR-ASSETS-PATH/ck.svg"
   },
   {
     "name": "Costa Rica",
     "code": "CR",
-    "img" : "assets/images/countries/cr.svg"
+    "img" : "YOUR-ASSETS-PATH/cr.svg"
   },
   {
     "name": "Cote D'Ivoire",
     "code": "CI",
-    "img" : "assets/images/countries/ci.svg"
+    "img" : "YOUR-ASSETS-PATH/ci.svg"
   },
   {
     "name": "Croatia",
     "code": "HR",
-    "img" : "assets/images/countries/hr.svg"
+    "img" : "YOUR-ASSETS-PATH/hr.svg"
   },
   {
     "name": "Cuba",
     "code": "CU",
-    "img" : "assets/images/countries/cu.svg"
+    "img" : "YOUR-ASSETS-PATH/cu.svg"
   },
   {
     "name": "Cyprus",
     "code": "CY",
-    "img" : "assets/images/countries/cy.svg"
+    "img" : "YOUR-ASSETS-PATH/cy.svg"
   },
   {
     "name": "Czech Republic",
     "code": "CZ",
-    "img" : "assets/images/countries/cz.svg"
+    "img" : "YOUR-ASSETS-PATH/cz.svg"
   },
   {
     "name": "Denmark",
     "code": "DK",
-    "img" : "assets/images/countries/dk.svg"
+    "img" : "YOUR-ASSETS-PATH/dk.svg"
   },
   {
     "name": "Djibouti",
     "code": "DJ",
-    "img" : "assets/images/countries/dj.svg"
+    "img" : "YOUR-ASSETS-PATH/dj.svg"
   },
   {
     "name": "Dominica",
     "code": "DM",
-    "img" : "assets/images/countries/dm.svg"
+    "img" : "YOUR-ASSETS-PATH/dm.svg"
   },
   {
     "name": "Dominican Republic",
     "code": "DO",
-    "img" : "assets/images/countries/do.svg"
+    "img" : "YOUR-ASSETS-PATH/do.svg"
   },
   {
     "name": "Ecuador",
     "code": "EC",
-    "img" : "assets/images/countries/ec.svg"
+    "img" : "YOUR-ASSETS-PATH/ec.svg"
   },
   {
     "name": "Egypt",
     "code": "EG",
-    "img" : "assets/images/countries/eg.svg"
+    "img" : "YOUR-ASSETS-PATH/eg.svg"
   },
   {
     "name": "El Salvador",
     "code": "SV",
-    "img" : "assets/images/countries/sv.svg"
+    "img" : "YOUR-ASSETS-PATH/sv.svg"
   },
   {
     "name": "Equatorial Guinea",
     "code": "GQ",
-    "img" : "assets/images/countries/gq.svg"
+    "img" : "YOUR-ASSETS-PATH/gq.svg"
   },
   {
     "name": "Eritrea",
     "code": "ER",
-    "img" : "assets/images/countries/er.svg"
+    "img" : "YOUR-ASSETS-PATH/er.svg"
   },
   {
     "name": "Estonia",
     "code": "EE",
-    "img" : "assets/images/countries/ee.svg"
+    "img" : "YOUR-ASSETS-PATH/ee.svg"
   },
   {
     "name": "Ethiopia",
     "code": "ET",
-    "img" : "assets/images/countries/et.svg"
+    "img" : "YOUR-ASSETS-PATH/et.svg"
   },
   {
     "name": "Falkland Islands (Malvinas)",
     "code": "FK",
-    "img" : "assets/images/countries/fk.svg"
+    "img" : "YOUR-ASSETS-PATH/fk.svg"
   },
   {
     "name": "Faroe Islands",
     "code": "FO",
-    "img" : "assets/images/countries/fo.svg"
+    "img" : "YOUR-ASSETS-PATH/fo.svg"
   },
   {
     "name": "Fiji",
     "code": "FJ",
-    "img" : "assets/images/countries/fj.svg"
+    "img" : "YOUR-ASSETS-PATH/fj.svg"
   },
   {
     "name": "Finland",
     "code": "FI",
-    "img" : "assets/images/countries/fi.svg"
+    "img" : "YOUR-ASSETS-PATH/fi.svg"
   },
   {
     "name": "France",
     "code": "FR",
-    "img" : "assets/images/countries/fr.svg"
+    "img" : "YOUR-ASSETS-PATH/fr.svg"
   },
   {
     "name": "French Guiana",
     "code": "GF",
-    "img" : "assets/images/countries/gf.svg"
+    "img" : "YOUR-ASSETS-PATH/gf.svg"
   },
   {
     "name": "French Polynesia",
     "code": "PF",
-    "img" : "assets/images/countries/pf.svg"
+    "img" : "YOUR-ASSETS-PATH/pf.svg"
   },
   {
     "name": "French Southern Territories",
     "code": "TF",
-    "img" : "assets/images/countries/tf.svg"
+    "img" : "YOUR-ASSETS-PATH/tf.svg"
   },
   {
     "name": "Gabon",
     "code": "GA",
-    "img" : "assets/images/countries/ga.svg"
+    "img" : "YOUR-ASSETS-PATH/ga.svg"
   },
   {
     "name": "Gambia",
     "code": "GM",
-    "img" : "assets/images/countries/gm.svg"
+    "img" : "YOUR-ASSETS-PATH/gm.svg"
   },
   {
     "name": "Georgia",
     "code": "GE",
-    "img" : "assets/images/countries/ge.svg"
+    "img" : "YOUR-ASSETS-PATH/ge.svg"
   },
   {
     "name": "Germany",
     "code": "DE",
-    "img" : "assets/images/countries/de.svg"
+    "img" : "YOUR-ASSETS-PATH/de.svg"
   },
   {
     "name": "Ghana",
     "code": "GH",
-    "img" : "assets/images/countries/gh.svg"
+    "img" : "YOUR-ASSETS-PATH/gh.svg"
   },
   {
     "name": "Gibraltar",
     "code": "GI",
-    "img" : "assets/images/countries/gi.svg"
+    "img" : "YOUR-ASSETS-PATH/gi.svg"
   },
   {
     "name": "Greece",
     "code": "GR",
-    "img" : "assets/images/countries/gr.svg"
+    "img" : "YOUR-ASSETS-PATH/gr.svg"
   },
   {
     "name": "Greenland",
     "code": "GL",
-    "img" : "assets/images/countries/gl.svg"
+    "img" : "YOUR-ASSETS-PATH/gl.svg"
   },
   {
     "name": "Grenada",
     "code": "GD",
-    "img" : "assets/images/countries/gd.svg"
+    "img" : "YOUR-ASSETS-PATH/gd.svg"
   },
   {
     "name": "Guadeloupe",
     "code": "GP",
-    "img" : "assets/images/countries/gp.svg"
+    "img" : "YOUR-ASSETS-PATH/gp.svg"
   },
   {
     "name": "Guam",
     "code": "GU",
-    "img" : "assets/images/countries/gu.svg"
+    "img" : "YOUR-ASSETS-PATH/gu.svg"
   },
   {
     "name": "Guatemala",
     "code": "GT",
-    "img" : "assets/images/countries/gt.svg"
+    "img" : "YOUR-ASSETS-PATH/gt.svg"
   },
   {
     "name": "Guernsey",
     "code": "GG",
-    "img" : "assets/images/countries/gg.svg"
+    "img" : "YOUR-ASSETS-PATH/gg.svg"
   },
   {
     "name": "Guinea",
     "code": "GN",
-    "img" : "assets/images/countries/gn.svg"
+    "img" : "YOUR-ASSETS-PATH/gn.svg"
   },
   {
     "name": "Guinea-Bissau",
     "code": "GW",
-    "img" : "assets/images/countries/gw.svg"
+    "img" : "YOUR-ASSETS-PATH/gw.svg"
   },
   {
     "name": "Guyana",
     "code": "GY",
-    "img" : "assets/images/countries/gy.svg"
+    "img" : "YOUR-ASSETS-PATH/gy.svg"
   },
   {
     "name": "Haiti",
     "code": "HT",
-    "img" : "assets/images/countries/ht.svg"
+    "img" : "YOUR-ASSETS-PATH/ht.svg"
   },
   {
     "name": "Heard Island and Mcdonald Islands",
     "code": "HM",
-    "img" : "assets/images/countries/hm.svg"
+    "img" : "YOUR-ASSETS-PATH/hm.svg"
   },
   {
     "name": "Holy See (Vatican City State)",
     "code": "VA",
-    "img" : "assets/images/countries/va.svg"
+    "img" : "YOUR-ASSETS-PATH/va.svg"
   },
   {
     "name": "Honduras",
     "code": "HN",
-    "img" : "assets/images/countries/hn.svg"
+    "img" : "YOUR-ASSETS-PATH/hn.svg"
   },
   {
     "name": "Hong Kong",
     "code": "HK",
-    "img" : "assets/images/countries/hk.svg"
+    "img" : "YOUR-ASSETS-PATH/hk.svg"
   },
   {
     "name": "Hungary",
     "code": "HU",
-    "img" : "assets/images/countries/hu.svg"
+    "img" : "YOUR-ASSETS-PATH/hu.svg"
   },
   {
     "name": "Iceland",
     "code": "IS",
-    "img" : "assets/images/countries/is.svg"
+    "img" : "YOUR-ASSETS-PATH/is.svg"
   },
   {
     "name": "India",
     "code": "IN",
-    "img" : "assets/images/countries/in.svg"
+    "img" : "YOUR-ASSETS-PATH/in.svg"
   },
   {
     "name": "Indonesia",
     "code": "ID",
-    "img" : "assets/images/countries/id.svg"
+    "img" : "YOUR-ASSETS-PATH/id.svg"
   },
   {
     "name": "Iran, Islamic Republic Of",
     "code": "IR",
-    "img" : "assets/images/countries/ir.svg"
+    "img" : "YOUR-ASSETS-PATH/ir.svg"
   },
   {
     "name": "Iraq",
     "code": "IQ",
-    "img" : "assets/images/countries/iq.svg"
+    "img" : "YOUR-ASSETS-PATH/iq.svg"
   },
   {
     "name": "Ireland",
     "code": "IE",
-    "img" : "assets/images/countries/ie.svg"
+    "img" : "YOUR-ASSETS-PATH/ie.svg"
   },
   {
     "name": "Isle of Man",
     "code": "IM",
-    "img" : "assets/images/countries/im.svg"
+    "img" : "YOUR-ASSETS-PATH/im.svg"
   },
   {
     "name": "Israel",
     "code": "IL",
-    "img" : "assets/images/countries/il.svg"
+    "img" : "YOUR-ASSETS-PATH/il.svg"
   },
   {
     "name": "Italy",
     "code": "IT",
-    "img" : "assets/images/countries/it.svg"
+    "img" : "YOUR-ASSETS-PATH/it.svg"
   },
   {
     "name": "Jamaica",
     "code": "JM",
-    "img" : "assets/images/countries/jm.svg"
+    "img" : "YOUR-ASSETS-PATH/jm.svg"
   },
   {
     "name": "Japan",
     "code": "JP",
-    "img" : "assets/images/countries/jp.svg"
+    "img" : "YOUR-ASSETS-PATH/jp.svg"
   },
   {
     "name": "Jersey",
     "code": "JE",
-    "img" : "assets/images/countries/je.svg"
+    "img" : "YOUR-ASSETS-PATH/je.svg"
   },
   {
     "name": "Jordan",
     "code": "JO",
-    "img" : "assets/images/countries/jo.svg"
+    "img" : "YOUR-ASSETS-PATH/jo.svg"
   },
   {
     "name": "Kazakhstan",
     "code": "KZ",
-    "img" : "assets/images/countries/kz.svg"
+    "img" : "YOUR-ASSETS-PATH/kz.svg"
   },
   {
     "name": "Kenya",
     "code": "KE",
-    "img" : "assets/images/countries/ke.svg"
+    "img" : "YOUR-ASSETS-PATH/ke.svg"
   },
   {
     "name": "Kiribati",
     "code": "KI",
-    "img" : "assets/images/countries/ki.svg"
+    "img" : "YOUR-ASSETS-PATH/ki.svg"
   },
   {
     "name": "Korea, Democratic People'S Republic of",
     "code": "KP",
-    "img" : "assets/images/countries/kp.svg"
+    "img" : "YOUR-ASSETS-PATH/kp.svg"
   },
   {
     "name": "Korea, Republic of",
     "code": "KR",
-    "img" : "assets/images/countries/kr.svg"
+    "img" : "YOUR-ASSETS-PATH/kr.svg"
   },
   {
     "name": "Kuwait",
     "code": "KW",
-    "img" : "assets/images/countries/kw.svg"
+    "img" : "YOUR-ASSETS-PATH/kw.svg"
   },
   {
     "name": "Kyrgyzstan",
     "code": "KG",
-    "img" : "assets/images/countries/kg.svg"
+    "img" : "YOUR-ASSETS-PATH/kg.svg"
   },
   {
     "name": "Lao People'S Democratic Republic",
     "code": "LA",
-    "img" : "assets/images/countries/la.svg"
+    "img" : "YOUR-ASSETS-PATH/la.svg"
   },
   {
     "name": "Latvia",
     "code": "LV",
-    "img" : "assets/images/countries/lv.svg"
+    "img" : "YOUR-ASSETS-PATH/lv.svg"
   },
   {
     "name": "Lebanon",
     "code": "LB",
-    "img" : "assets/images/countries/lb.svg"
+    "img" : "YOUR-ASSETS-PATH/lb.svg"
   },
   {
     "name": "Lesotho",
     "code": "LS",
-    "img" : "assets/images/countries/ls.svg"
+    "img" : "YOUR-ASSETS-PATH/ls.svg"
   },
   {
     "name": "Liberia",
     "code": "LR",
-    "img" : "assets/images/countries/lr.svg"
+    "img" : "YOUR-ASSETS-PATH/lr.svg"
   },
   {
     "name": "Libyan Arab Jamahiriya",
     "code": "LY",
-    "img" : "assets/images/countries/ly.svg"
+    "img" : "YOUR-ASSETS-PATH/ly.svg"
   },
   {
     "name": "Liechtenstein",
     "code": "LI",
-    "img" : "assets/images/countries/li.svg"
+    "img" : "YOUR-ASSETS-PATH/li.svg"
   },
   {
     "name": "Lithuania",
     "code": "LT",
-    "img" : "assets/images/countries/lt.svg"
+    "img" : "YOUR-ASSETS-PATH/lt.svg"
   },
   {
     "name": "Luxembourg",
     "code": "LU",
-    "img" : "assets/images/countries/lu.svg"
+    "img" : "YOUR-ASSETS-PATH/lu.svg"
   },
   {
     "name": "Macao",
     "code": "MO",
-    "img" : "assets/images/countries/mo.svg"
+    "img" : "YOUR-ASSETS-PATH/mo.svg"
   },
   {
     "name": "Macedonia, The Former Yugoslav Republic of",
     "code": "MK",
-    "img" : "assets/images/countries/mk.svg"
+    "img" : "YOUR-ASSETS-PATH/mk.svg"
   },
   {
     "name": "Madagascar",
     "code": "MG",
-    "img" : "assets/images/countries/mg.svg"
+    "img" : "YOUR-ASSETS-PATH/mg.svg"
   },
   {
     "name": "Malawi",
     "code": "MW",
-    "img" : "assets/images/countries/mw.svg"
+    "img" : "YOUR-ASSETS-PATH/mw.svg"
   },
   {
     "name": "Malaysia",
     "code": "MY",
-    "img" : "assets/images/countries/my.svg"
+    "img" : "YOUR-ASSETS-PATH/my.svg"
   },
   {
     "name": "Maldives",
     "code": "MV",
-    "img" : "assets/images/countries/mv.svg"
+    "img" : "YOUR-ASSETS-PATH/mv.svg"
   },
   {
     "name": "Mali",
     "code": "ML",
-    "img" : "assets/images/countries/ml.svg"
+    "img" : "YOUR-ASSETS-PATH/ml.svg"
   },
   {
     "name": "Malta",
     "code": "MT",
-    "img" : "assets/images/countries/mt.svg"
+    "img" : "YOUR-ASSETS-PATH/mt.svg"
   },
   {
     "name": "Marshall Islands",
     "code": "MH",
-    "img" : "assets/images/countries/mh.svg"
+    "img" : "YOUR-ASSETS-PATH/mh.svg"
   },
   {
     "name": "Martinique",
     "code": "MQ",
-    "img" : "assets/images/countries/mq.svg"
+    "img" : "YOUR-ASSETS-PATH/mq.svg"
   },
   {
     "name": "Mauritania",
     "code": "MR",
-    "img" : "assets/images/countries/mr.svg"
+    "img" : "YOUR-ASSETS-PATH/mr.svg"
   },
   {
     "name": "Mauritius",
     "code": "MU",
-    "img" : "assets/images/countries/mu.svg"
+    "img" : "YOUR-ASSETS-PATH/mu.svg"
   },
   {
     "name": "Mayotte",
     "code": "YT",
-    "img" : "assets/images/countries/yt.svg"
+    "img" : "YOUR-ASSETS-PATH/yt.svg"
   },
   {
     "name": "Mexico",
     "code": "MX",
-    "img" : "assets/images/countries/mx.svg"
+    "img" : "YOUR-ASSETS-PATH/mx.svg"
   },
   {
     "name": "Micronesia, Federated States of",
     "code": "FM",
-    "img" : "assets/images/countries/fm.svg"
+    "img" : "YOUR-ASSETS-PATH/fm.svg"
   },
   {
     "name": "Moldova, Republic of",
     "code": "MD",
-    "img" : "assets/images/countries/md.svg"
+    "img" : "YOUR-ASSETS-PATH/md.svg"
   },
   {
     "name": "Monaco",
     "code": "MC",
-    "img" : "assets/images/countries/mc.svg"
+    "img" : "YOUR-ASSETS-PATH/mc.svg"
   },
   {
     "name": "Mongolia",
     "code": "MN",
-    "img" : "assets/images/countries/mn.svg"
+    "img" : "YOUR-ASSETS-PATH/mn.svg"
   },
   {
     "name": "Montserrat",
     "code": "MS",
-    "img" : "assets/images/countries/ms.svg"
+    "img" : "YOUR-ASSETS-PATH/ms.svg"
   },
   {
     "name": "Morocco",
     "code": "MA",
-    "img" : "assets/images/countries/ma.svg"
+    "img" : "YOUR-ASSETS-PATH/ma.svg"
   },
   {
     "name": "Mozambique",
     "code": "MZ",
-    "img" : "assets/images/countries/mz.svg"
+    "img" : "YOUR-ASSETS-PATH/mz.svg"
   },
   {
     "name": "Myanmar",
     "code": "MM",
-    "img" : "assets/images/countries/mm.svg"
+    "img" : "YOUR-ASSETS-PATH/mm.svg"
   },
   {
     "name": "Namibia",
     "code": "NA",
-    "img" : "assets/images/countries/na.svg"
+    "img" : "YOUR-ASSETS-PATH/na.svg"
   },
   {
     "name": "Nauru",
     "code": "NR",
-    "img" : "assets/images/countries/nr.svg"
+    "img" : "YOUR-ASSETS-PATH/nr.svg"
   },
   {
     "name": "Nepal",
     "code": "NP",
-    "img" : "assets/images/countries/np.svg"
+    "img" : "YOUR-ASSETS-PATH/np.svg"
   },
   {
     "name": "Netherlands",
     "code": "NL",
-    "img" : "assets/images/countries/nl.svg"
+    "img" : "YOUR-ASSETS-PATH/nl.svg"
   },
   {
     "name": "Netherlands Antilles",
     "code": "AN",
-    "img" : "assets/images/countries/an.svg"
+    "img" : "YOUR-ASSETS-PATH/an.svg"
   },
   {
     "name": "New Caledonia",
     "code": "NC",
-    "img" : "assets/images/countries/nc.svg"
+    "img" : "YOUR-ASSETS-PATH/nc.svg"
   },
   {
     "name": "New Zealand",
     "code": "NZ",
-    "img" : "assets/images/countries/nz.svg"
+    "img" : "YOUR-ASSETS-PATH/nz.svg"
   },
   {
     "name": "Nicaragua",
     "code": "NI",
-    "img" : "assets/images/countries/ni.svg"
+    "img" : "YOUR-ASSETS-PATH/ni.svg"
   },
   {
     "name": "Niger",
     "code": "NE",
-    "img" : "assets/images/countries/ne.svg"
+    "img" : "YOUR-ASSETS-PATH/ne.svg"
   },
   {
     "name": "Nigeria",
     "code": "NG",
-    "img" : "assets/images/countries/ng.svg"
+    "img" : "YOUR-ASSETS-PATH/ng.svg"
   },
   {
     "name": "Niue",
     "code": "NU",
-    "img" : "assets/images/countries/nu.svg"
+    "img" : "YOUR-ASSETS-PATH/nu.svg"
   },
   {
     "name": "Norfolk Island",
     "code": "NF",
-    "img" : "assets/images/countries/nf.svg"
+    "img" : "YOUR-ASSETS-PATH/nf.svg"
   },
   {
     "name": "Northern Mariana Islands",
     "code": "MP",
-    "img" : "assets/images/countries/mp.svg"
+    "img" : "YOUR-ASSETS-PATH/mp.svg"
   },
   {
     "name": "Norway",
     "code": "NO",
-    "img" : "assets/images/countries/no.svg"
+    "img" : "YOUR-ASSETS-PATH/no.svg"
   },
   {
     "name": "Oman",
     "code": "OM",
-    "img" : "assets/images/countries/om.svg"
+    "img" : "YOUR-ASSETS-PATH/om.svg"
   },
   {
     "name": "Pakistan",
     "code": "PK",
-    "img" : "assets/images/countries/pk.svg"
+    "img" : "YOUR-ASSETS-PATH/pk.svg"
   },
   {
     "name": "Palau",
     "code": "PW",
-    "img" : "assets/images/countries/pw.svg"
+    "img" : "YOUR-ASSETS-PATH/pw.svg"
   },
   {
     "name": "Palestinian Territory, Occupied",
     "code": "PS",
-    "img" : "assets/images/countries/ps.svg"
+    "img" : "YOUR-ASSETS-PATH/ps.svg"
   },
   {
     "name": "Panama",
     "code": "PA",
-    "img" : "assets/images/countries/pa.svg"
+    "img" : "YOUR-ASSETS-PATH/pa.svg"
   },
   {
     "name": "Papua New Guinea",
     "code": "PG",
-    "img" : "assets/images/countries/pg.svg"
+    "img" : "YOUR-ASSETS-PATH/pg.svg"
   },
   {
     "name": "Paraguay",
     "code": "PY",
-    "img" : "assets/images/countries/py.svg"
+    "img" : "YOUR-ASSETS-PATH/py.svg"
   },
   {
     "name": "Peru",
     "code": "PE",
-    "img" : "assets/images/countries/pe.svg"
+    "img" : "YOUR-ASSETS-PATH/pe.svg"
   },
   {
     "name": "Philippines",
     "code": "PH",
-    "img" : "assets/images/countries/ph.svg"
+    "img" : "YOUR-ASSETS-PATH/ph.svg"
   },
   {
     "name": "Pitcairn",
     "code": "PN",
-    "img" : "assets/images/countries/pn.svg"
+    "img" : "YOUR-ASSETS-PATH/pn.svg"
   },
   {
     "name": "Poland",
     "code": "PL",
-    "img" : "assets/images/countries/pl.svg"
+    "img" : "YOUR-ASSETS-PATH/pl.svg"
   },
   {
     "name": "Portugal",
     "code": "PT",
-    "img" : "assets/images/countries/pt.svg"
+    "img" : "YOUR-ASSETS-PATH/pt.svg"
   },
   {
     "name": "Puerto Rico",
     "code": "PR",
-    "img" : "assets/images/countries/pr.svg"
+    "img" : "YOUR-ASSETS-PATH/pr.svg"
   },
   {
     "name": "Qatar",
     "code": "QA",
-    "img" : "assets/images/countries/qa.svg"
+    "img" : "YOUR-ASSETS-PATH/qa.svg"
   },
   {
     "name": "Reunion",
     "code": "RE",
-    "img" : "assets/images/countries/re.svg"
+    "img" : "YOUR-ASSETS-PATH/re.svg"
   },
   {
     "name": "Romania",
     "code": "RO",
-    "img" : "assets/images/countries/ro.svg"
+    "img" : "YOUR-ASSETS-PATH/ro.svg"
   },
   {
     "name": "Russian Federation",
     "code": "RU",
-    "img" : "assets/images/countries/ru.svg"
+    "img" : "YOUR-ASSETS-PATH/ru.svg"
   },
   {
     "name": "RWANDA",
     "code": "RW",
-    "img" : "assets/images/countries/rw.svg"
+    "img" : "YOUR-ASSETS-PATH/rw.svg"
   },
   {
     "name": "Saint Helena",
     "code": "SH",
-    "img" : "assets/images/countries/sh.svg"
+    "img" : "YOUR-ASSETS-PATH/sh.svg"
   },
   {
     "name": "Saint Kitts and Nevis",
     "code": "KN",
-    "img" : "assets/images/countries/kn.svg"
+    "img" : "YOUR-ASSETS-PATH/kn.svg"
   },
   {
     "name": "Saint Lucia",
     "code": "LC",
-    "img" : "assets/images/countries/lc.svg"
+    "img" : "YOUR-ASSETS-PATH/lc.svg"
   },
   {
     "name": "Saint Pierre and Miquelon",
     "code": "PM",
-    "img" : "assets/images/countries/pm.svg"
+    "img" : "YOUR-ASSETS-PATH/pm.svg"
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "VC",
-    "img" : "assets/images/countries/vc.svg"
+    "img" : "YOUR-ASSETS-PATH/vc.svg"
   },
   {
     "name": "Samoa",
     "code": "WS",
-    "img" : "assets/images/countries/ws.svg"
+    "img" : "YOUR-ASSETS-PATH/ws.svg"
   },
   {
     "name": "San Marino",
     "code": "SM",
-    "img" : "assets/images/countries/sm.svg"
+    "img" : "YOUR-ASSETS-PATH/sm.svg"
   },
   {
     "name": "Sao Tome and Principe",
     "code": "ST",
-    "img" : "assets/images/countries/st.svg"
+    "img" : "YOUR-ASSETS-PATH/st.svg"
   },
   {
     "name": "Saudi Arabia",
     "code": "SA",
-    "img" : "assets/images/countries/sa.svg"
+    "img" : "YOUR-ASSETS-PATH/sa.svg"
   },
   {
     "name": "Senegal",
     "code": "SN",
-    "img" : "assets/images/countries/sn.svg"
+    "img" : "YOUR-ASSETS-PATH/sn.svg"
   },
   {
     "name": "Serbia and Montenegro",
     "code": "CS",
-    "img" : "assets/images/countries/cs.svg"
+    "img" : "YOUR-ASSETS-PATH/cs.svg"
   },
   {
     "name": "Seychelles",
     "code": "SC",
-    "img" : "assets/images/countries/sc.svg"
+    "img" : "YOUR-ASSETS-PATH/sc.svg"
   },
   {
     "name": "Sierra Leone",
     "code": "SL",
-    "img" : "assets/images/countries/sl.svg"
+    "img" : "YOUR-ASSETS-PATH/sl.svg"
   },
   {
     "name": "Singapore",
     "code": "SG",
-    "img" : "assets/images/countries/sg.svg"
+    "img" : "YOUR-ASSETS-PATH/sg.svg"
   },
   {
     "name": "Slovakia",
     "code": "SK",
-    "img" : "assets/images/countries/sk.svg"
+    "img" : "YOUR-ASSETS-PATH/sk.svg"
   },
   {
     "name": "Slovenia",
     "code": "SI",
-    "img" : "assets/images/countries/si.svg"
+    "img" : "YOUR-ASSETS-PATH/si.svg"
   },
   {
     "name": "Solomon Islands",
     "code": "SB",
-    "img" : "assets/images/countries/sb.svg"
+    "img" : "YOUR-ASSETS-PATH/sb.svg"
   },
   {
     "name": "Somalia",
     "code": "SO",
-    "img" : "assets/images/countries/so.svg"
+    "img" : "YOUR-ASSETS-PATH/so.svg"
   },
   {
     "name": "South Africa",
     "code": "ZA",
-    "img" : "assets/images/countries/za.svg"
+    "img" : "YOUR-ASSETS-PATH/za.svg"
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
     "code": "GS",
-    "img" : "assets/images/countries/gs.svg"
+    "img" : "YOUR-ASSETS-PATH/gs.svg"
   },
   {
     "name": "Spain",
     "code": "ES",
-    "img" : "assets/images/countries/es.svg"
+    "img" : "YOUR-ASSETS-PATH/es.svg"
   },
   {
     "name": "Sri Lanka",
     "code": "LK",
-    "img" : "assets/images/countries/lk.svg"
+    "img" : "YOUR-ASSETS-PATH/lk.svg"
   },
   {
     "name": "Sudan",
     "code": "SD",
-    "img" : "assets/images/countries/sd.svg"
+    "img" : "YOUR-ASSETS-PATH/sd.svg"
   },
   {
     "name": "Suriname",
     "code": "SR",
-    "img" : "assets/images/countries/sr.svg"
+    "img" : "YOUR-ASSETS-PATH/sr.svg"
   },
   {
     "name": "Svalbard and Jan Mayen",
     "code": "SJ",
-    "img" : "assets/images/countries/sj.svg"
+    "img" : "YOUR-ASSETS-PATH/sj.svg"
   },
   {
     "name": "Swaziland",
     "code": "SZ",
-    "img" : "assets/images/countries/sz.svg"
+    "img" : "YOUR-ASSETS-PATH/sz.svg"
   },
   {
     "name": "Sweden",
     "code": "SE",
-    "img" : "assets/images/countries/se.svg"
+    "img" : "YOUR-ASSETS-PATH/se.svg"
   },
   {
     "name": "Switzerland",
     "code": "CH",
-    "img" : "assets/images/countries/ch.svg"
+    "img" : "YOUR-ASSETS-PATH/ch.svg"
   },
   {
     "name": "Syrian Arab Republic",
     "code": "SY",
-    "img" : "assets/images/countries/sy.svg"
+    "img" : "YOUR-ASSETS-PATH/sy.svg"
   },
   {
     "name": "Taiwan, Province of China",
     "code": "TW",
-    "img" : "assets/images/countries/tw.svg"
+    "img" : "YOUR-ASSETS-PATH/tw.svg"
   },
   {
     "name": "Tajikistan",
     "code": "TJ",
-    "img" : "assets/images/countries/tj.svg"
+    "img" : "YOUR-ASSETS-PATH/tj.svg"
   },
   {
     "name": "Tanzania, United Republic of",
     "code": "TZ",
-    "img" : "assets/images/countries/tz.svg"
+    "img" : "YOUR-ASSETS-PATH/tz.svg"
   },
   {
     "name": "Thailand",
     "code": "TH",
-    "img" : "assets/images/countries/th.svg"
+    "img" : "YOUR-ASSETS-PATH/th.svg"
   },
   {
     "name": "Timor-Leste",
     "code": "TL",
-    "img" : "assets/images/countries/tl.svg"
+    "img" : "YOUR-ASSETS-PATH/tl.svg"
   },
   {
     "name": "Togo",
     "code": "TG",
-    "img" : "assets/images/countries/tg.svg"
+    "img" : "YOUR-ASSETS-PATH/tg.svg"
   },
   {
     "name": "Tokelau",
     "code": "TK",
-    "img" : "assets/images/countries/tk.svg"
+    "img" : "YOUR-ASSETS-PATH/tk.svg"
   },
   {
     "name": "Tonga",
     "code": "TO",
-    "img" : "assets/images/countries/to.svg"
+    "img" : "YOUR-ASSETS-PATH/to.svg"
   },
   {
     "name": "Trinidad and Tobago",
     "code": "TT",
-    "img" : "assets/images/countries/tt.svg"
+    "img" : "YOUR-ASSETS-PATH/tt.svg"
   },
   {
     "name": "Tunisia",
     "code": "TN",
-    "img" : "assets/images/countries/tn.svg"
+    "img" : "YOUR-ASSETS-PATH/tn.svg"
   },
   {
     "name": "Turkey",
     "code": "TR",
-    "img" : "assets/images/countries/tr.svg"
+    "img" : "YOUR-ASSETS-PATH/tr.svg"
   },
   {
     "name": "Turkmenistan",
     "code": "TM",
-    "img" : "assets/images/countries/tm.svg"
+    "img" : "YOUR-ASSETS-PATH/tm.svg"
   },
   {
     "name": "Turks and Caicos Islands",
     "code": "TC",
-    "img" : "assets/images/countries/tc.svg"
+    "img" : "YOUR-ASSETS-PATH/tc.svg"
   },
   {
     "name": "Tuvalu",
     "code": "TV",
-    "img" : "assets/images/countries/tv.svg"
+    "img" : "YOUR-ASSETS-PATH/tv.svg"
   },
   {
     "name": "Uganda",
     "code": "UG",
-    "img" : "assets/images/countries/ug.svg"
+    "img" : "YOUR-ASSETS-PATH/ug.svg"
   },
   {
     "name": "Ukraine",
     "code": "UA",
-    "img" : "assets/images/countries/ua.svg"
+    "img" : "YOUR-ASSETS-PATH/ua.svg"
   },
   {
     "name": "United Arab Emirates",
     "code": "AE",
-    "img" : "assets/images/countries/ae.svg"
+    "img" : "YOUR-ASSETS-PATH/ae.svg"
   },
   {
     "name": "United Kingdom",
     "code": "GB",
-    "img" : "assets/images/countries/gb.svg"
+    "img" : "YOUR-ASSETS-PATH/gb.svg"
   },
   {
     "name": "United States",
     "code": "US",
-    "img" : "assets/images/countries/us.svg"
+    "img" : "YOUR-ASSETS-PATH/us.svg"
   },
   {
     "name": "United States Minor Outlying Islands",
     "code": "UM",
-    "img" : "assets/images/countries/um.svg"
+    "img" : "YOUR-ASSETS-PATH/um.svg"
   },
   {
     "name": "Uruguay",
     "code": "UY",
-    "img" : "assets/images/countries/uy.svg"
+    "img" : "YOUR-ASSETS-PATH/uy.svg"
   },
   {
     "name": "Uzbekistan",
     "code": "UZ",
-    "img" : "assets/images/countries/uz.svg"
+    "img" : "YOUR-ASSETS-PATH/uz.svg"
   },
   {
     "name": "Vanuatu",
     "code": "VU",
-    "img" : "assets/images/countries/vu.svg"
+    "img" : "YOUR-ASSETS-PATH/vu.svg"
   },
   {
     "name": "Venezuela",
     "code": "VE",
-    "img" : "assets/images/countries/ve.svg"
+    "img" : "YOUR-ASSETS-PATH/ve.svg"
   },
   {
     "name": "Viet Nam",
     "code": "VN",
-    "img" : "assets/images/countries/vn.svg"
+    "img" : "YOUR-ASSETS-PATH/vn.svg"
   },
   {
     "name": "Virgin Islands, British",
     "code": "VG",
-    "img" : "assets/images/countries/vg.svg"
+    "img" : "YOUR-ASSETS-PATH/vg.svg"
   },
   {
     "name": "Virgin Islands, U.S.",
     "code": "VI",
-    "img" : "assets/images/countries/vi.svg"
+    "img" : "YOUR-ASSETS-PATH/vi.svg"
   },
   {
     "name": "Wallis and Futuna",
     "code": "WF",
-    "img" : "assets/images/countries/wf.svg"
+    "img" : "YOUR-ASSETS-PATH/wf.svg"
   },
   {
     "name": "Western Sahara",
     "code": "EH",
-    "img" : "assets/images/countries/eh.svg"
+    "img" : "YOUR-ASSETS-PATH/eh.svg"
   },
   {
     "name": "Yemen",
     "code": "YE",
-    "img" : "assets/images/countries/ye.svg"
+    "img" : "YOUR-ASSETS-PATH/ye.svg"
   },
   {
     "name": "Zambia",
     "code": "ZM",
-    "img" : "assets/images/countries/zm.svg"
+    "img" : "YOUR-ASSETS-PATH/zm.svg"
   },
   {
     "name": "Zimbabwe",
     "code": "ZW",
-    "img" : "assets/images/countries/zw.svg"
+    "img" : "YOUR-ASSETS-PATH/zw.svg"
   }
 ]
